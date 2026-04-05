@@ -1,5 +1,5 @@
 ## PROJECT
-### 📌 Project Overview  
+### Project Overview  
 This project analyses housing market trends in King County using **data exploration and interactive Tableau dashboards**.  
 
 The objective is to identify key factors influencing house prices and provide insights into how property characteristics, location, and quality impact valuation.  
@@ -11,7 +11,7 @@ This project demonstrates:
 
 ---
 
-### 📊 Dataset  
+### Dataset  
 The dataset (`HouseData.xlsx`) contains residential housing sales data with key features including:
 
 - Price  
@@ -25,7 +25,7 @@ The dataset (`HouseData.xlsx`) contains residential housing sales data with key 
 
 ---
 
-### 🧹 Data Preparation  
+### Data Preparation  
 Data preprocessing steps included:
 
 - Handling missing and inconsistent values  
@@ -35,17 +35,17 @@ Data preprocessing steps included:
 
 ---
 
-### 📈 Tableau Dashboard  
+### Tableau Dashboard  
 
 The Tableau workbook (`KingCountyHouseSales.twbx`) provides interactive visualisations for exploring housing trends.
 
-#### 🔍 Key Insights
+#### Key Insights
 - Strong relationship between **living area (sqft) and price**  
 - Significant **location-based price variations**  
 - Higher **grade and condition → higher property value**  
 - Waterfront properties show **premium pricing effects**  
 
-#### 🎛️ Features
+#### Features
 - Interactive filters (bedrooms, price range, location)  
 - Dynamic comparison charts  
 - Geographic map visualisation  
@@ -53,7 +53,7 @@ The Tableau workbook (`KingCountyHouseSales.twbx`) provides interactive visualis
 
 ---
 
-### 🛠️ Tools & Technologies  
+### Tools & Technologies  
 
 - Tableau  
 - Microsoft Excel  
@@ -65,7 +65,7 @@ The Tableau workbook (`KingCountyHouseSales.twbx`) provides interactive visualis
 
 ---
 
-### 🎯 Key Outcomes  
+### Key Outcomes  
 
 - Identified key drivers of house prices  
 - Built an interactive dashboard for decision-making  
@@ -73,7 +73,7 @@ The Tableau workbook (`KingCountyHouseSales.twbx`) provides interactive visualis
 
 ---
 
-### 🚀 How to Use  
+### How to Use  
 
 1. Download the `.twbx` file  
 2. Open in Tableau Desktop / Tableau Public  
@@ -81,7 +81,7 @@ The Tableau workbook (`KingCountyHouseSales.twbx`) provides interactive visualis
 
 ---
 
-### 💡 Future Improvements  
+### Future Improvements  
 
 - Add predictive modelling (price prediction)  
 - Perform time-series analysis  
@@ -89,7 +89,7 @@ The Tableau workbook (`KingCountyHouseSales.twbx`) provides interactive visualis
 
 ---
 
-### 👤 Author  
+### Author  
 
 Celine Nguyen  
 Sydney, Australia   
