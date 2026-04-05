@@ -65,4 +65,31 @@ The Tableau workbook (`KingCountyHouseSales.twbx`) provides interactive visualis
 
 ---
 
-### 📁 Project Structure  
+### 🎯 Key Outcomes  
+
+- Identified key drivers of house prices  
+- Built an interactive dashboard for decision-making  
+- Delivered clear insights for stakeholders  
+
+---
+
+### 🚀 How to Use  
+
+1. Download the `.twbx` file  
+2. Open in Tableau Desktop / Tableau Public  
+3. Interact with filters and dashboards  
+
+---
+
+### 💡 Future Improvements  
+
+- Add predictive modelling (price prediction)  
+- Perform time-series analysis  
+- Enhance dashboard with advanced KPIs  
+
+---
+
+### 👤 Author  
+
+Celine Nguyen  
+Sydney, Australia   
